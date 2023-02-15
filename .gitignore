@@ -1,0 +1,6 @@
+*.env
+wsgi.py
+**/__pycache__/
+*.log
+*.sh
+*.json
